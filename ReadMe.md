@@ -10,8 +10,8 @@ Input audio file is given in Audio folder which also contains all output audio.
 
 ### Prerequisites
 
-MATLAB 
-myCompressor and myReverb both require functions from the Secondary function folder to work
+* MATLAB 
+* myCompressor and myReverb both require functions from the Secondary function folder to work
 
 ## Running the tests
 
