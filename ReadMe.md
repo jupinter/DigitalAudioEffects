@@ -4,7 +4,9 @@ Flanger, compressor and reverb.
 
 ## Getting Started
 
-Help files are written included in the code for each function Extract 'main.m' script and all function's to a directory. Input audio file is given in Audio folder which also contains all output audio.
+Help files are written included in the code for each function.
+Extract 'main.m' script and all function's to a directory.
+Input audio file is given in Audio folder which also contains all output audio.
 
 ### Prerequisites
 
