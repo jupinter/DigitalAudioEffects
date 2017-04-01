@@ -1,6 +1,6 @@
 # DSP Audio effects
 
-Flanger, compressor and reverb.
+Flanger, compressor and schroeder reverberation.
 
 ## Getting Started
 
